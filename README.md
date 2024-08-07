@@ -1,7 +1,8 @@
 # Business-Insights-360 
-This is my Business Insights 360 of project on atliQ Hardwares using POWER BI :heavy_check_mark: 
+This is my _[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiYjU4MjZlZTQtMTUyYS00M2U1LTk4NDctMTM1Nzc5NmNlYjhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+ of project on atliQ Hardwares using POWER BI :heavy_check_mark: 
 
-# Project Live Dashboard # - _[click here](https://app.powerbi.com/view?r=eyJrIjoiYjU4MjZlZTQtMTUyYS00M2U1LTk4NDctMTM1Nzc5NmNlYjhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+# Project Live Dashboard  - _[click here](https://app.powerbi.com/view?r=eyJrIjoiYjU4MjZlZTQtMTUyYS00M2U1LTk4NDctMTM1Nzc5NmNlYjhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 ## :coin: Finance Report :
 
@@ -115,4 +116,7 @@ This is my Business Insights 360 of project on atliQ Hardwares using POWER BI :h
 
 :pushpin:	Knowledge of Project charter.
 
+
+
+# Project Live Dashboard  - _[click here](https://app.powerbi.com/view?r=eyJrIjoiYjU4MjZlZTQtMTUyYS00M2U1LTk4NDctMTM1Nzc5NmNlYjhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
