@@ -120,3 +120,4 @@ This is my _[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiYjU4M
 
 # Project Live Dashboard  - _[click here](https://app.powerbi.com/view?r=eyJrIjoiYjU4MjZlZTQtMTUyYS00M2U1LTk4NDctMTM1Nzc5NmNlYjhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
+# LinkedIn post - _[click here]https://www.linkedin.com/posts/sree-vignesh-05-_powerbi-codebasics-dataanalysis-activity-7231158161523580928-neP2?utm_source=share&utm_medium=member_desktop_
